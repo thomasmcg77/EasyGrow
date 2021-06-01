@@ -1,11 +1,27 @@
-## Link
+# EasyGrow
 
-https://easygrow-3e160.web.app/
+EasyGrow is a fake e-commerce website designed to feel like [Amazon](https://www.amazon.com/)
 
-## Description
+Check it out [here](https://easygrow-3e160.web.app/)!
 
-EasyGrow is a test E-Commerce website that 'sells' smart grow technologies. The general design and layout is based off of the Amazon website. It was created using Reactjs and the Material UI Library. It also includes payment functionality with Stripe.
 
-## Usage
+### Motivation
+------------------
+I created this project to practice creating a user interface that will feel familiar and comfortable for users. It also gave me the opportunity to work on the back-end side of a web application.
 
-To make a test purchase repeatedly type 424242... until the card information is filled.
+
+### Technology Used
+------------------
+Resources:
+[Material UI Framework](https://material-ui.com/),
+[Stripe.js](https://stripe.com/docs/js),
+[Axios](https://www.npmjs.com/package/axios),
+[Firebase](https://firebase.google.com/)
+
+**Built with** [Visual Studio Code](https://code.visualstudio.com/)
+
+
+### Images/Screenshots
+------------------
+
+![alt text]
