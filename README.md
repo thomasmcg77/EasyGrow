@@ -23,15 +23,15 @@ Resources:
 
 ### Images/Screenshots
 ------------------
-##### Home Page
+#### Home Page
 ![alt text](https://github.com/thomasmcg77/easygrow/blob/main/screenshots/homepage-top.jpg)
 ![alt text](https://github.com/thomasmcg77/easygrow/blob/main/screenshots/homepage-middle.jpg)
 
-##### Login Page
+#### Login Page
 ![alt text](https://github.com/thomasmcg77/easygrow/blob/main/screenshots/loginpage.jpg)
 
-##### View Cart Page
+#### View Cart Page
 ![alt text](https://github.com/thomasmcg77/easygrow/blob/main/screenshots/basketpage.jpg)
 
-##### Checkout Page
+#### Checkout Page
 ![alt text](https://github.com/thomasmcg77/easygrow/blob/main/screenshots/checkoutpage.jpg)
