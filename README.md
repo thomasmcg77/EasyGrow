@@ -13,6 +13,7 @@ I created this project to practice creating a user interface that will feel fami
 ### Technology Used
 ------------------
 Resources:
+[React JS](https://reactjs.org/)
 [Material UI Framework](https://material-ui.com/),
 [Stripe.js](https://stripe.com/docs/js),
 [Axios](https://www.npmjs.com/package/axios),
