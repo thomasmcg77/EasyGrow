@@ -1,6 +1,6 @@
 # EasyGrow
 
-EasyGrow is a fake e-commerce website designed to feel like [Amazon](https://www.amazon.com/)
+EasyGrow is a fake e-commerce website designed to feel like [Amazon](https://www.amazon.com/). It allows you to create an account, place and remove items in your cart, and use [Stripe](https://stripe.com/) to purchase the products (repeatedly press 424242... until the payment details are filled).
 
 Check it out [here](https://easygrow-3e160.web.app/)!
 
